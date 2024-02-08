@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 old happy new year32
 happy goodmorningmorning
-=======
-new happy new year
-2
-happy good
-morningmorning
->>>>>>> dea315ec57d0c5e0bede33523d1a462e545e6e63
 happy good
 morningmorning
 anand
