@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 happy new year 1
-=======
-happy new year 4
->>>>>>> 6b8cb19b30dabec9d87c4fe0e152d5f06950f8b8
 happy good
 morningmorning
 anand
